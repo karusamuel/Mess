@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Menu Settings">
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/menu_options"
+            android:entryValues="@array/menu_options_values"
+            android:key="menu_settings"
+            android:title="Show Menu By"
+            />
+
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Cart options">
+
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="show_only_available_items"
+        android:title="Show only available items" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Notifications">
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="notifications"
+            android:title="Show notifications" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About">
+        <Preference android:title="About"
+
+            />
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

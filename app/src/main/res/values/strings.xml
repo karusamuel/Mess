@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Mess</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="tea">The simple elixir of tea is of our natural world. The
+        tea leaf is a product of the Earth\'s fertile soil, radiant sun and
+        nurturing rain. The water in which it is steeped is one of the Earth\'s
+        primary and most powerful elements. Together they make an incredible
+        beverage of life to savor and dwell in.in the mess it is served as
+        white tea or black tea</string>
+    <string name="bread">Bread is a staple food prepared from a dough of flour and
+        water, usually by baking. Throughout recorded history it has been a
+        prominent food in large parts of the world and is one of the oldest
+        man-made foods, having been of significant importance since the dawn
+        of agriculture. in the mess they are served in 4 slices and one can
+        choose to take with margarine or not </string>
+    <string name="potatoes"> fried potatoes are made by first Peeling the
+        potatoes as desired. Slice into1/4-inch-thick slices or cut into 3/4-inch
+        chunks. In a large skillet
+        over medium heat, melt about 2 teaspoons butter or margarine
+        per medium potato. Add cooked potatoes; cook about 10 minutes or
+        until golden brown, turning occasionally.</string>
+    <string name="mahamri">mahamri is a very popular delicacy enjoyed in
+        tanzania and other countries nearby, and goes well with tea or
+        coffee. The basic ingredients are simple, mixing flour, sugar and eggs.</string>
+    <string name="bajia">this is a popular street food which is easy to make by frying
+        a batter consisting of simple ingredients such as Black eyed peas, Coriander,
+        Onion, Salt, curry powder. It is enjoyed hot with chutney or hot sauce.</string>
+    <string name="sausage">A sausage is a cylindrical meat product usually made
+        from ground meat, often pork, beef, or veal, along with salt, spices and
+        other flavourings, and breadcrumbs, encased by a skin. Typically,
+        a sausage is formed in a casing traditionally made from intestine,
+        but sometimes from synthetic materials. Sausages that are sold raw are
+        cooked in many ways, including pan-frying, broiling and barbecuing.
+        Some sausages are cooked during processing and the casing may then be removed. </string>
+    <string name="ugali">Ugali is a type of cornmeal porridge made in Africa.It is
+        also known as nshima, pap, phutu, sadza, and other names. It is sometimes
+        made from other flours, such as millet or sorghum flour, and is sometimes
+        mixed with cassava flour. It is cooked in boiling water or milk until it
+        reaches a stiff or firm dough-like consistency.</string>
+    <string name="rice">Rice is the seed of the grass species Oryza sativa or Oryza
+        glaberrima. As a cereal grain, it is the most widely consumed staple food
+        for a large part of the world\'s human population. it is prepared by Pouring the
+        rice into a pan over a low heat, then add the butter or oil, if using, and
+        stir to coat the rice grains. Add double the amount of
+        water (2 cups, or 150ml water for a 75g serving) plus some salt, if you like.
+        To shorten the cooking time, add boiling water. Bring to a boil.</string>
+    <string name="chapati">chapati is also known as Roti, Shabaati, Safati or Roshi
+        in the Maldives. It is as unleavened flat bread which is a staple in
+        Sri Lanka, India, Bangladesh and Nepal, usually made from Whole Whet Flour,
+        though All Purpose Flour is normally used to make the Chapati.
+        Chapati has many Varieties like Paneer Chapati where grated Paneer is
+        added to the Chapati Dough. There is Radish or Mullandi Chapati where
+        grated Radish and Turmeric Powder is added to the Chapati Dough, and
+        also Vegetable Stuffed Chapati where Carrot, Potato, Fenugreek and Peas
+        are mushed and  slightly sauteed into a Marsala gravy and then rolled
+        into the Chapati.As you can see, there are so many ways that you can
+        make this traditional Indian Flat Bread. Chapatis are a great meal because
+        you can make them and reheat them the next day to have with Tea or a chosen
+        Vegetable or Meat with it. The secret to making very Soft delicious
+        Chapati is in the Dough, the kneading process is what really determines
+        how soft your Chapati will become. Also I used hot water to knead the doug
+        h and added Vegetable Oil before completing the kneading process.
+        This makes the dough soft yet firm. So here is my very detailed steps to
+        making the perfect and softest Chapati.</string>
+    <string name="beans">fried beans are prepare by heating the oil in a
+        large skillet over medium heat. Add the onion and cook until tender,
+        about 3 minutes. Stir in the garlic and chili powder and cook for 1
+        minute more. Stir in the beans and broth and cook until the beans are
+        warmed through, about 5 minutes. Mash the beans coarsely with the
+        back of a wooden spoon, adding more broth to moisten, if needed.
+        Season with salt and pepper, to taste. Stir in the cilantro. Green Grams
+        are annual legume crops grown for their seed. Grams could be green,
+        black or yellow in colour. The green grams are the most commonly grown
+        in Kenya. Grams are native crops of India. Often called green gram or golden
+        , it is cultivated in several countries of Asia, Africa, and the Americas.
+        The dried beans are prepared by cooking or milling. They are eaten whole
+        or split. The seeds or the flour may be used in a variety of dishes like
+        soups, porridge, snacks, bread, noodles and even ice cream. Green gram also
+        produces great sprouts, which can be sold in health food shops or eaten at
+        home. Crop residues of V. radiata are a useful fodder. Green gram is
+        sometimes specifically grown for hay, green manure or as a cover crop.</string>
+    <string name="stewedpotatoes">they are prepared by heating the oil in a
+        skillet over medium heat, and saute the garlic and onion until tender.
+        Stir in the tomato, and cook until heated through. Mix in potatoes
+        and rutabaga. Season with oregano,salt, and pepper. Pour in the broth,
+        and bring to a boil. Reduce heat to low, and continue cooking 15
+        minutes, or until potatoes and rutabaga are tender. </string>
+    <string name="githeri">Githeri, also called muthere or mutheri, is a Kenyan
+        traditional meal of maize and legumes, mostly beans of any type mixed
+        and boiled together. The maize and beans are mixed together in a sufuria
+        or pot, water is then added and the mixture boiled until the food
+        is cooked and ready to eat.</string>
+    <string name="fruit">the common fruits in the mess are bananas and watermelon.
+        Despite the popular belief that watermelon is just water
+        and sugar, watermelon is actually a nutrient dense food. It provides high
+        levels of vitamins, minerals, and antioxidants and just a small number
+        of calories.Bananas are one of the most widely consumed fruits in the
+        world for good reason. Eating them could help lower blood pressure and
+        reduce the risks of cancer and asthma. </string>
+    <string name="vegetables">the most common vegetables in the mess are
+        sukumawiki(kales) and cabbage. sukumawiki is cooked by heating olive oil in
+        a large saucepan over medium-high heat. Add the garlic and cook until soft,
+        but not colored. Raise heat to high, add the stock and kale and toss to
+        combine. Cover and cook for 5 minutes. Remove cover and continue to cook,
+        stirring until all the liquid has evaporated. Season with salt and pepper
+        to taste and add vinegar.cabbage is prepared by inserting a steamer basket
+        inside a saucepan. Add enough water to the pan so the water level is just
+        below the bottom of the basket.Bring water to boiling. Add cabbage wedges
+        to steamer basket. Cover and steam for 10 to 12 minutes or until cabbage
+        is crisp-tender. </string>
+    <string name="beefstew">Beef stew is the benevolent king of all stews.
+        Familiar yet never tiresome, chunks of tender beef and potatoes in rich
+        brown gravy will always bring comfort and joy to our tables. Little things
+        are what elevate a good stew to become a great one. Taking time to sear
+        the beef is integral to flavor in both the meat and the gravy, as is
+        letting it simmer low and slow until the beef is spoon-tender.
+        Busy cooks might be tempted to purchase packages of so-called stew meat
+        at the market, but it pays to follow this recipe and take a few minutes
+        to cut up an economical chuck roast. Stew meat is a mixture of scraps
+        left over when a butcher trims a range of cuts to go in the meat case,
+        and these random pieces won’t cook the same way or finish at the same time
+        . The uniformity of a well-marbled chuck roast yields consistent results
+        and the best flavor. Originally, this recipe called for the stew to be
+        cooked in a wok, which was trendy at the time. We prefer using a Dutch
+        oven because it provides a large, flat surface to properly brown the meat.</string>
+    <string name="friedbeef"> Fried Beef meat is the most tasty food to consume, and yet
+        very expensive.But due to the urge to eat some, ill help you make 
+        it better. At least solve some health complications caused by beef meat.
+        Beef meat should not be roasted or pan fried. Trust me, it's almost equal
+        to eating it raw. Boiling, wet frying, oven cooking, grinding, etc are
+        among the best methods of cooking beef.</string>
+    <string name="friedchicken">Fried chicken  is a dish consisting of chicken pieces
+        usually from broiler chickens which have been floured or battered and then
+        pan-fried, deep fried, or pressure fried. The breading adds a crisp coating
+        or crust to the exterior of the chicken. What separates fried chicken from
+        other fried forms of chicken is that generally the chicken is cut at the joints,
+        and the bones and skin are left intact. Crisp well-seasoned skin, rendered
+        of excess fat, is a hallmark of well made fried chicken. </string>
+    <string name="stewedbeef">Beef sold for stew (that is, trimmed and cut into
+        bite-size cubes) is generally chuck or round—tough cuts that become
+        tender and flavorful when slowly simmered in liquid. Beef round cuts
+        (bottom and eye) are generally leaner than chuck (shoulder, leg and butt)
+        and very well-suited to stew.</string>
+    <string name="pilau"> pilau is a dish, originating from the Indian subcontinent,
+        in which rice is cooked in a seasoned broth. In some cases, the rice may
+        attain its brown or golden color by first being sauteed lightly in oil
+        before the addition of broth. Cooked onion, garlic cloves, sliced carrot,
+        other vegetables, as well as a mix of spices, may be added. Depending on
+        the local cuisine, it may additionally contain meat, fish, vegetables,
+        pasta (orzo), or dried fruit.</string>
+    <string name="salad">A salad is a dish consisting of a mixture of small pieces
+        of food, usually vegetables. However, different varieties of salad may
+        contain virtually any type of ready-to-eat food. Salads are typically
+        served at room temperature or chilled.Garden salads use a base of leafy greens
+        such as lettuce, arugula/rocket, kale or spinach; they are common enough
+        that the word salad alone often refers specifically to garden salads</string>
+
+</resources>

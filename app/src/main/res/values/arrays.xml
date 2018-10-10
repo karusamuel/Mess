@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="menuItems">
+        <item>Tea</item>
+        <item>Bread With Margarine</item>
+        <item>Fried Potatoes</item>
+        <item>Mahamri</item>
+        <item>Bajia</item>
+        <item>Sausage</item>
+
+        <item>Ugali</item>
+        <item>Rice</item>
+        <item>Chapati</item>
+        <item>Green Grams/Fried Beans</item>
+        <item>Stewed Potatoes</item>
+        <item>Githeri</item>
+        <item>Fruit</item>
+        <item>Vegetables</item>
+        <item>Beef Stew</item>
+        <item>Fried Beef</item>
+        <item>Fried chicken</item>
+        <item>Stewed Beef</item>
+        <item>Pilau</item>
+        <item>Salad</item>
+
+    </array>
+    <array name="day">
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Everyday</item>
+        <item>Monday/Wednesday/Thursday/Sunday</item>
+        <item>Monday/Wednesday/Friday/Saturday</item>
+        <item>Tuesday</item>
+        <item>Tuesday/Saturday</item>
+        <item>Wednesday/Sunday</item>
+        <item>Wednesday/Sunday</item>
+
+
+    </array>
+    <array name="time">
+        <item>BreakFirst</item>
+        <item>BreakFirst</item>
+        <item>BreakFirst</item>
+        <item>BreakFirst</item>
+        <item>BreakFirst</item>
+        <item>BreakFirst</item>
+
+        <item>Lunch/Supper</item>
+        <item>Lunch/Supper</item>
+        <item>Lunch/Supper</item>
+        <item>Lunch/Supper</item>
+        <item>Lunch/Supper</item>
+        <item>Lunch</item>
+        <item>Lunch</item>
+        <item>Lunch/Supper</item>
+        <item>Lunch/supper</item>
+        <item>Supper/lunch</item>
+        <item>Lunch</item>
+        <item>Supper/Lunch</item>
+        <item>Lunch</item>
+        <item>Lunch</item>
+
+
+
+
+    </array>
+    <integer-array name="price">
+        <item>7</item>
+        <item>15</item>
+        <item>10</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+
+        <item>12</item>
+        <item>13</item>
+        <item>10</item>
+        <item>15</item>
+        <item>15</item>
+        <item>15</item>
+        <item>10</item>
+        <item>10</item>
+        <item>35</item>
+        <item>37</item>
+        <item>50</item>
+        <item>37</item>
+        <item>50</item>
+        <item>5</item>
+
+    </integer-array>
+
+    <array name="menu_options">
+        <item>Day</item>
+        <item>Meal</item>
+        <item>All</item>
+
+    </array>
+    <array name="menu_options_values">
+        <item>show_by_day</item>
+        <item>show_by_meal</item>
+        <item>show_all</item>
+
+    </array>
+
+</resources>
