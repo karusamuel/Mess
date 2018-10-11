@@ -43,6 +43,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Password"
+            android:inputType="textPassword"
             android:maxLines="1" />
     </android.support.design.widget.TextInputLayout>
 
@@ -64,6 +65,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Confirm Password"
+            android:inputType="textPassword"
             android:maxLines="1" />
     </android.support.design.widget.TextInputLayout>
 
@@ -94,6 +96,10 @@
         android:text="skip"
         android:clickable="true"
         android:onClick="skip"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:textSize="18sp"
         android:textAppearance="@style/TextAppearance.Design.Hint"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
