@@ -24,6 +24,7 @@ public class ShopActivity extends AppCompatActivity {
     String[] name;
     String[] price;
     int[] priceList;
+    int number=0;
 
     int[] selected;
     static int length;
@@ -53,10 +54,12 @@ public class ShopActivity extends AppCompatActivity {
         menuList.setOnItemClickListener(new ListView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-
+               number++;
                 array(i);
+                setQuantity(number);
 
-               Toast.makeText(getApplicationContext(),"item  "+Integer.toString(i)+"  selected",Toast.LENGTH_SHORT).show();
+
+
 
             }
         });
@@ -99,6 +102,12 @@ public class ShopActivity extends AppCompatActivity {
     }
 
 
-
+public void setQuantity(int number){
+        if (number <2 ){
+            this.setTitle(Integer.toString(number)+" Item Selected");
+        }else{
+            this.setTitle(Integer.toString(number)+" Items Selected");
+        }
+}
 
 }
